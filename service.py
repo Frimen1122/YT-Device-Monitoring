@@ -1,3 +1,3 @@
-from constants Import OFFLINE_STATE
+from constants Import ONLINE_STATE
 
-print(OFFLINE_STATE)
+print(ONLINE_STATE)
